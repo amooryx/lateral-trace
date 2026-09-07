@@ -1,8 +1,8 @@
-﻿# lateral-trace
+# lateral-trace
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python lateral_trace.py --help
 ```
 
