@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="lateral-trace" width="800">
+</div>
+
 # lateral-trace
 
 > Red team security tool — authorized use only.
